@@ -1,0 +1,3 @@
+데이터베이스 파일들입니다
+xampp에서 Apache랑 MySQL 항목 옆의 start를 클릭하고 인터넷 주소창에 localhost/phpmyadmin을 입력해서
+php myadmin에 들어가고 중앙 상단의 메뉴의 가져오기를 클릭한 후 파일을 넣어서 사용하시면 됩니다.
