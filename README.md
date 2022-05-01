@@ -1,5 +1,5 @@
 # past_projects
-2-1데이터베이스 과제: It is a shoppingmall database team project using php html-php-mysql. I heard a feedback from professor that it is too simple. Still my group implemented it well. When I was a sophomore first semester.
+2-1데이터베이스 과제: It is a shoppingmall database team project with html-php-mysql. I heard a feedback from professor that it is too simple. Still my group implemented it well. When I was a sophomore first semester.
 
 2-2 Machine Learning: It is a chess program project that tried to adapt machine learning algorithm. I tried to use 3 different algorithms, but everything failed. I specified my reckoning about my failed attempts at doc file. When I was a sophomore second semester.
 
